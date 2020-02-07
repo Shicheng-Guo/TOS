@@ -2,11 +2,22 @@
 # Mobius
 # V01.01.2013
 # 4.15.2019
-#hint:<b>RSI with Divergence</b>
+# hint:<b>RSI with Divergence</b>
 
 # Note: Install this as a new study. Save this study using the name above (the first line of code RSI_With_Divergence).
-
-# To use this study as a scan; DO NOT TRY TO LOAD IT DIRECTLY IN THE SCANNER, IT WILL THROW AN ERROR MESSAGE. Go to the scan tab. Delete any existing scan criteria. Click Add Study Filter. Click the window under Criteria. In that drop down menu click Custom. Delete the existing study. Click Add Condition. Click the down arrow in the Select A Condition window. Click Study. Scroll down the List till you find RSI_With_Divergence and click it. Click on the Plot window and you can choose Dhigh or Dlow in addition to the default plot RSI. If you choose either of the divergence siganls choose is True from the center column. Click on the aggregation period at the top left and set the aggregation period you want scaned. Then click Save and when the popup window shows the warning that this is a custom scan chose OK. Now put the list of stocks you wish to scan in the Scan In box and chose any list you want that to intersect with. If you wish to make this a Dynamic WatchList, save this scan with a name such as RSI_With_Div_WL then in your Gadgets box click the little gear icon, locate the name of the scan you just saved and click it. As equities match the scan criteria they will populate the list.
+# To use this study as a scan; DO NOT TRY TO LOAD IT DIRECTLY IN THE SCANNER, IT WILL THROW AN ERROR MESSAGE. 
+# Go to the scan tab. Delete any existing scan criteria. Click Add Study Filter. Click the window under Criteria. 
+# In that drop down menu click Custom. Delete the existing study. Click Add Condition. 
+# Click the down arrow in the Select A Condition window. Click Study. 
+# Scroll down the List till you find RSI_With_Divergence and click it. 
+# Click on the Plot window and you can choose Dhigh or Dlow in addition to the default plot RSI. 
+# If you choose either of the divergence siganls choose is True from the center column. 
+# Click on the aggregation period at the top left and set the aggregation period you want scaned. 
+# Then click Save and when the popup window shows the warning that this is a custom scan chose OK. 
+# Now put the list of stocks you wish to scan in the Scan In box and chose any list you want that to intersect with. 
+# If you wish to make this a Dynamic WatchList, save this scan with a name such as RSI_With_Div_WL 
+# then in your Gadgets box click the little gear icon, locate the name of the scan you just saved and click it. 
+# As equities match the scan criteria they will populate the list.
 
 declare lower;
 

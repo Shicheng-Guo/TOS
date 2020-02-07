@@ -1,4 +1,4 @@
-# Stephen Romano, 2011
+# Stephen Romano, 2019
 #
 # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 # Kase Peak Oscillator
